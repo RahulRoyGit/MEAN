@@ -1,0 +1,24 @@
+{
+  "name": "fareye",
+  "version": "1.0.0",
+  "description": "Complete Fareye Visibility",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fareye"
+  ],
+  "author": "Rahul Roy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-mongo": "^3.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "express-winston": "^4.0.5",
+    "glob": "^7.1.6",
+    "mongoose": "^5.11.13",
+    "winston": "^3.3.3"
+  }
+}
